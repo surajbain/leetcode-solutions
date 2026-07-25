@@ -6,10 +6,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/surajbain/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/surajbain/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -19,4 +21,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
