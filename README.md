@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/surajbain/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/surajbain/leetcode-solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajbain/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,5 +53,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajbain/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/surajbain/leetcode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajbain/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
