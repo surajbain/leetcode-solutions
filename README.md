@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/surajbain/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0486-predict-the-winner](https://github.com/surajbain/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/surajbain/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0486-predict-the-winner](https://github.com/surajbain/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/surajbain/leetcode-solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajbain/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -40,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/surajbain/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/surajbain/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0486-predict-the-winner](https://github.com/surajbain/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/surajbain/leetcode-solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
@@ -124,4 +127,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/surajbain/leetcode-solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/surajbain/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/surajbain/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
