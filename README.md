@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0989-add-to-array-form-of-integer](https://github.com/surajbain/leetcode-solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/surajbain/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/surajbain/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/surajbain/leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/surajbain/leetcode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## String
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/surajbain/leetcode-solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/surajbain/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
