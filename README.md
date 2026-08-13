@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajbain/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/surajbain/leetcode-solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/surajbain/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/surajbain/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/surajbain/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/surajbain/leetcode-solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
