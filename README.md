@@ -140,12 +140,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0095-unique-binary-search-trees-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0095-unique-binary-search-trees-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 ## Counting Sort
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/surajbain/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/surajbain/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
@@ -206,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/surajbain/leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -239,4 +243,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/surajbain/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 <!---LeetCode Topics End-->
