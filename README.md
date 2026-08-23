@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/surajbain/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/surajbain/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/surajbain/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0125-valid-palindrome](https://github.com/surajbain/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/surajbain/leetcode-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/surajbain/leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/surajbain/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/surajbain/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/surajbain/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/surajbain/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/surajbain/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/surajbain/leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
