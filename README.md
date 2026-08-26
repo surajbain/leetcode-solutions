@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -240,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
