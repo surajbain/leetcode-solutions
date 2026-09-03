@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/surajbain/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0141-linked-list-cycle](https://github.com/surajbain/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/surajbain/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/surajbain/leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/surajbain/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/surajbain/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/surajbain/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/surajbain/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/surajbain/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/surajbain/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/surajbain/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/surajbain/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/surajbain/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/surajbain/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/surajbain/leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
