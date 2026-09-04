@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/surajbain/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/surajbain/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/surajbain/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/surajbain/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/surajbain/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/surajbain/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/surajbain/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/surajbain/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/surajbain/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/surajbain/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/surajbain/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/surajbain/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
@@ -313,4 +316,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/surajbain/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/surajbain/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
