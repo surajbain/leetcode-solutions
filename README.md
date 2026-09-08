@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/surajbain/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/surajbain/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/surajbain/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0043-multiply-strings](https://github.com/surajbain/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/surajbain/leetcode-solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0486-predict-the-winner](https://github.com/surajbain/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/surajbain/leetcode-solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/surajbain/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/surajbain/leetcode-solutions/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/surajbain/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0125-valid-palindrome](https://github.com/surajbain/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0166-fraction-to-recurring-decimal](https://github.com/surajbain/leetcode-solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/surajbain/leetcode-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/surajbain/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
