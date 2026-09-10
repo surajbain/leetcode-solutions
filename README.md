@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/surajbain/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/surajbain/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0166-fraction-to-recurring-decimal](https://github.com/surajbain/leetcode-solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/surajbain/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/surajbain/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/surajbain/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/surajbain/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/surajbain/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/surajbain/leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0179-largest-number](https://github.com/surajbain/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/surajbain/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/surajbain/leetcode-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/surajbain/leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/surajbain/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/surajbain/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/surajbain/leetcode-solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/surajbain/leetcode-solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
@@ -259,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/surajbain/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/surajbain/leetcode-solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0187-repeated-dna-sequences](https://github.com/surajbain/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/surajbain/leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/surajbain/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Depth-First Search
@@ -356,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/surajbain/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/surajbain/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -364,8 +369,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/surajbain/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/surajbain/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/surajbain/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/surajbain/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/surajbain/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
