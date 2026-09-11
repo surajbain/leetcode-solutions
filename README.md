@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0166-fraction-to-recurring-decimal](https://github.com/surajbain/leetcode-solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/surajbain/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/surajbain/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/surajbain/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/surajbain/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/surajbain/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/surajbain/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/surajbain/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/surajbain/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/surajbain/leetcode-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/surajbain/leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/surajbain/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/surajbain/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -384,4 +387,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/surajbain/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 <!---LeetCode Topics End-->
