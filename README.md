@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/surajbain/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/surajbain/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/surajbain/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/surajbain/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/surajbain/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/surajbain/leetcode-solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0226-invert-binary-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -311,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/surajbain/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
