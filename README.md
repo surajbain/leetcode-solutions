@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/surajbain/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/surajbain/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/surajbain/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/surajbain/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/surajbain/leetcode-solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/surajbain/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/surajbain/leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/surajbain/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/surajbain/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
@@ -266,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/surajbain/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/surajbain/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0095-unique-binary-search-trees-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/surajbain/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0486-predict-the-winner](https://github.com/surajbain/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/surajbain/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
@@ -367,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/surajbain/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
