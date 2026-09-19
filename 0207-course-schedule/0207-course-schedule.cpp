@@ -13,12 +13,12 @@ public:
             indegree[course]++;
         }
         queue<int> q;
-        
         for (int i = 0; i < numCourses; i++) {
             if (indegree[i] == 0) {
                 q.push(i);
-            }
         }
+        }
+
         
         int completed = 0;
         while (!q.empty()) {
