@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/surajbain/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/surajbain/leetcode-solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/surajbain/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/surajbain/leetcode-solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/surajbain/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/surajbain/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0501-find-mode-in-binary-search-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/surajbain/leetcode-solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [1042-flower-planting-with-no-adjacent](https://github.com/surajbain/leetcode-solutions/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
@@ -402,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/surajbain/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/surajbain/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/surajbain/leetcode-solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0994-rotting-oranges](https://github.com/surajbain/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1042-flower-planting-with-no-adjacent](https://github.com/surajbain/leetcode-solutions/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -474,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/surajbain/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/surajbain/leetcode-solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
