@@ -392,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/surajbain/leetcode-solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/surajbain/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/surajbain/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
+| [0685-redundant-connection-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0685-redundant-connection-ii/) | Hard |
 | [1042-flower-planting-with-no-adjacent](https://github.com/surajbain/leetcode-solutions/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/surajbain/leetcode-solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/surajbain/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/surajbain/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
+| [0685-redundant-connection-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0994-rotting-oranges](https://github.com/surajbain/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1042-flower-planting-with-no-adjacent](https://github.com/surajbain/leetcode-solutions/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/surajbain/leetcode-solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/surajbain/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/surajbain/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
+| [0685-redundant-connection-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0997-find-the-town-judge](https://github.com/surajbain/leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1042-flower-planting-with-no-adjacent](https://github.com/surajbain/leetcode-solutions/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
@@ -572,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/surajbain/leetcode-solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/surajbain/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/surajbain/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
+| [0685-redundant-connection-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0685-redundant-connection-ii/) | Hard |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
