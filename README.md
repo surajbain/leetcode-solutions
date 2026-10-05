@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/surajbain/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0332-reconstruct-itinerary](https://github.com/surajbain/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0399-evaluate-division](https://github.com/surajbain/leetcode-solutions/tree/main/0399-evaluate-division/) | Medium |
+| [0753-cracking-the-safe](https://github.com/surajbain/leetcode-solutions/tree/main/0753-cracking-the-safe/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/surajbain/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/surajbain/leetcode-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/surajbain/leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/surajbain/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0743-network-delay-time](https://github.com/surajbain/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0753-cracking-the-safe](https://github.com/surajbain/leetcode-solutions/tree/main/0753-cracking-the-safe/) | Hard |
 | [1042-flower-planting-with-no-adjacent](https://github.com/surajbain/leetcode-solutions/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
@@ -440,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/surajbain/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0743-network-delay-time](https://github.com/surajbain/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0753-cracking-the-safe](https://github.com/surajbain/leetcode-solutions/tree/main/0753-cracking-the-safe/) | Hard |
 | [0997-find-the-town-judge](https://github.com/surajbain/leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1042-flower-planting-with-no-adjacent](https://github.com/surajbain/leetcode-solutions/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
@@ -604,10 +607,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/surajbain/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
+| [0753-cracking-the-safe](https://github.com/surajbain/leetcode-solutions/tree/main/0753-cracking-the-safe/) | Hard |
 ## Eulerian Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/surajbain/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
+| [0753-cracking-the-safe](https://github.com/surajbain/leetcode-solutions/tree/main/0753-cracking-the-safe/) | Hard |
 ## Semi-Eulerian Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -629,4 +634,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/surajbain/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
+## Eulerian Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0753-cracking-the-safe](https://github.com/surajbain/leetcode-solutions/tree/main/0753-cracking-the-safe/) | Hard |
 <!---LeetCode Topics End-->
