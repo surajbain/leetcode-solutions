@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/surajbain/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
+| [0765-couples-holding-hands](https://github.com/surajbain/leetcode-solutions/tree/main/0765-couples-holding-hands/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/surajbain/leetcode-solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/surajbain/leetcode-solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/surajbain/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -397,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0685-redundant-connection-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0743-network-delay-time](https://github.com/surajbain/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0753-cracking-the-safe](https://github.com/surajbain/leetcode-solutions/tree/main/0753-cracking-the-safe/) | Hard |
+| [0765-couples-holding-hands](https://github.com/surajbain/leetcode-solutions/tree/main/0765-couples-holding-hands/) | Hard |
 | [1042-flower-planting-with-no-adjacent](https://github.com/surajbain/leetcode-solutions/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
@@ -426,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/surajbain/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0743-network-delay-time](https://github.com/surajbain/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0765-couples-holding-hands](https://github.com/surajbain/leetcode-solutions/tree/main/0765-couples-holding-hands/) | Hard |
 | [0994-rotting-oranges](https://github.com/surajbain/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1042-flower-planting-with-no-adjacent](https://github.com/surajbain/leetcode-solutions/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -443,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0685-redundant-connection-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0743-network-delay-time](https://github.com/surajbain/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0753-cracking-the-safe](https://github.com/surajbain/leetcode-solutions/tree/main/0753-cracking-the-safe/) | Hard |
+| [0765-couples-holding-hands](https://github.com/surajbain/leetcode-solutions/tree/main/0765-couples-holding-hands/) | Hard |
 | [0997-find-the-town-judge](https://github.com/surajbain/leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1042-flower-planting-with-no-adjacent](https://github.com/surajbain/leetcode-solutions/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
@@ -583,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/surajbain/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/surajbain/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0685-redundant-connection-ii/) | Hard |
+| [0765-couples-holding-hands](https://github.com/surajbain/leetcode-solutions/tree/main/0765-couples-holding-hands/) | Hard |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
