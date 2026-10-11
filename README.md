@@ -460,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0928-minimize-malware-spread-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0928-minimize-malware-spread-ii/) | Hard |
 | [0994-rotting-oranges](https://github.com/surajbain/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1042-flower-planting-with-no-adjacent](https://github.com/surajbain/leetcode-solutions/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
+| [1129-shortest-path-with-alternating-colors](https://github.com/surajbain/leetcode-solutions/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0990-satisfiability-of-equality-equations](https://github.com/surajbain/leetcode-solutions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [0997-find-the-town-judge](https://github.com/surajbain/leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1042-flower-planting-with-no-adjacent](https://github.com/surajbain/leetcode-solutions/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
+| [1129-shortest-path-with-alternating-colors](https://github.com/surajbain/leetcode-solutions/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Backtracking
