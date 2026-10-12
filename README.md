@@ -418,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/surajbain/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/surajbain/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/surajbain/leetcode-solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/surajbain/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/surajbain/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0851-loud-and-rich](https://github.com/surajbain/leetcode-solutions/tree/main/0851-loud-and-rich/) | Medium |
 | [0924-minimize-malware-spread](https://github.com/surajbain/leetcode-solutions/tree/main/0924-minimize-malware-spread/) | Hard |
@@ -456,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/surajbain/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/surajbain/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/surajbain/leetcode-solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/surajbain/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/surajbain/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/surajbain/leetcode-solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0924-minimize-malware-spread](https://github.com/surajbain/leetcode-solutions/tree/main/0924-minimize-malware-spread/) | Hard |
@@ -482,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/surajbain/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/surajbain/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/surajbain/leetcode-solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/surajbain/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/surajbain/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/surajbain/leetcode-solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0851-loud-and-rich](https://github.com/surajbain/leetcode-solutions/tree/main/0851-loud-and-rich/) | Medium |
@@ -618,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/surajbain/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/surajbain/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0802-find-eventual-safe-states](https://github.com/surajbain/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0851-loud-and-rich](https://github.com/surajbain/leetcode-solutions/tree/main/0851-loud-and-rich/) | Medium |
 | [0913-cat-and-mouse](https://github.com/surajbain/leetcode-solutions/tree/main/0913-cat-and-mouse/) | Hard |
 ## Directed Acyclic Graph
@@ -714,4 +718,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/surajbain/leetcode-solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/surajbain/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/surajbain/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
