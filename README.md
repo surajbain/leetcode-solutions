@@ -417,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0765-couples-holding-hands](https://github.com/surajbain/leetcode-solutions/tree/main/0765-couples-holding-hands/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/surajbain/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/surajbain/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/surajbain/leetcode-solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/surajbain/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0851-loud-and-rich](https://github.com/surajbain/leetcode-solutions/tree/main/0851-loud-and-rich/) | Medium |
 | [0924-minimize-malware-spread](https://github.com/surajbain/leetcode-solutions/tree/main/0924-minimize-malware-spread/) | Hard |
@@ -454,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0765-couples-holding-hands](https://github.com/surajbain/leetcode-solutions/tree/main/0765-couples-holding-hands/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/surajbain/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/surajbain/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/surajbain/leetcode-solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/surajbain/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/surajbain/leetcode-solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0924-minimize-malware-spread](https://github.com/surajbain/leetcode-solutions/tree/main/0924-minimize-malware-spread/) | Hard |
@@ -479,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0765-couples-holding-hands](https://github.com/surajbain/leetcode-solutions/tree/main/0765-couples-holding-hands/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/surajbain/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/surajbain/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/surajbain/leetcode-solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/surajbain/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/surajbain/leetcode-solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0851-loud-and-rich](https://github.com/surajbain/leetcode-solutions/tree/main/0851-loud-and-rich/) | Medium |
@@ -499,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0095-unique-binary-search-trees-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/surajbain/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0797-all-paths-from-source-to-target](https://github.com/surajbain/leetcode-solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/surajbain/leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -621,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/surajbain/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/surajbain/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0797-all-paths-from-source-to-target](https://github.com/surajbain/leetcode-solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0851-loud-and-rich](https://github.com/surajbain/leetcode-solutions/tree/main/0851-loud-and-rich/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
