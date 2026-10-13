@@ -425,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0928-minimize-malware-spread-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0928-minimize-malware-spread-ii/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/surajbain/leetcode-solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1042-flower-planting-with-no-adjacent](https://github.com/surajbain/leetcode-solutions/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
+| [1192-critical-connections-in-a-network](https://github.com/surajbain/leetcode-solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -497,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0997-find-the-town-judge](https://github.com/surajbain/leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1042-flower-planting-with-no-adjacent](https://github.com/surajbain/leetcode-solutions/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/surajbain/leetcode-solutions/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
+| [1192-critical-connections-in-a-network](https://github.com/surajbain/leetcode-solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1791-find-center-of-star-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Backtracking
@@ -726,4 +728,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/surajbain/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Biconnected Component
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/surajbain/leetcode-solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
+## Bridge (Graph)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/surajbain/leetcode-solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 <!---LeetCode Topics End-->
