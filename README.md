@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/surajbain/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/surajbain/leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1140-stone-game-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/surajbain/leetcode-solutions/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajbain/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/surajbain/leetcode-solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/surajbain/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -468,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1042-flower-planting-with-no-adjacent](https://github.com/surajbain/leetcode-solutions/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/surajbain/leetcode-solutions/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/surajbain/leetcode-solutions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/surajbain/leetcode-solutions/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -502,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-shortest-path-with-alternating-colors](https://github.com/surajbain/leetcode-solutions/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/surajbain/leetcode-solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/surajbain/leetcode-solutions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/surajbain/leetcode-solutions/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 | [1791-find-center-of-star-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Backtracking
