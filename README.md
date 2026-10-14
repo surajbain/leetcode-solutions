@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0997-find-the-town-judge](https://github.com/surajbain/leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1140-stone-game-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/surajbain/leetcode-solutions/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
+| [1311-get-watched-videos-by-your-friends](https://github.com/surajbain/leetcode-solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajbain/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/surajbain/leetcode-solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/surajbain/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0928-minimize-malware-spread-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0928-minimize-malware-spread-ii/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/surajbain/leetcode-solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0997-find-the-town-judge](https://github.com/surajbain/leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
+| [1311-get-watched-videos-by-your-friends](https://github.com/surajbain/leetcode-solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/surajbain/leetcode-solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/surajbain/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/surajbain/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0332-reconstruct-itinerary](https://github.com/surajbain/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/surajbain/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1311-get-watched-videos-by-your-friends](https://github.com/surajbain/leetcode-solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajbain/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/surajbain/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/surajbain/leetcode-solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -470,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-shortest-path-with-alternating-colors](https://github.com/surajbain/leetcode-solutions/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/surajbain/leetcode-solutions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/surajbain/leetcode-solutions/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
+| [1311-get-watched-videos-by-your-friends](https://github.com/surajbain/leetcode-solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -505,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1192-critical-connections-in-a-network](https://github.com/surajbain/leetcode-solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/surajbain/leetcode-solutions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/surajbain/leetcode-solutions/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
+| [1311-get-watched-videos-by-your-friends](https://github.com/surajbain/leetcode-solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Backtracking
