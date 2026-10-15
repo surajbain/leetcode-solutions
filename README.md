@@ -431,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1042-flower-planting-with-no-adjacent](https://github.com/surajbain/leetcode-solutions/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/surajbain/leetcode-solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/surajbain/leetcode-solutions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/surajbain/leetcode-solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -474,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/surajbain/leetcode-solutions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/surajbain/leetcode-solutions/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 | [1311-get-watched-videos-by-your-friends](https://github.com/surajbain/leetcode-solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/surajbain/leetcode-solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -510,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/surajbain/leetcode-solutions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/surajbain/leetcode-solutions/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 | [1311-get-watched-videos-by-your-friends](https://github.com/surajbain/leetcode-solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/surajbain/leetcode-solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Backtracking
@@ -666,6 +669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0928-minimize-malware-spread-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0928-minimize-malware-spread-ii/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/surajbain/leetcode-solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/surajbain/leetcode-solutions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/surajbain/leetcode-solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
