@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/surajbain/leetcode-solutions/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 | [1311-get-watched-videos-by-your-friends](https://github.com/surajbain/leetcode-solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajbain/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1514-path-with-maximum-probability](https://github.com/surajbain/leetcode-solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/surajbain/leetcode-solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/surajbain/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/surajbain/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/surajbain/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/surajbain/leetcode-solutions/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajbain/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1514-path-with-maximum-probability](https://github.com/surajbain/leetcode-solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/surajbain/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/surajbain/leetcode-solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Bit Manipulation
@@ -530,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/surajbain/leetcode-solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/surajbain/leetcode-solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1494-parallel-courses-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1494-parallel-courses-ii/) | Hard |
+| [1514-path-with-maximum-probability](https://github.com/surajbain/leetcode-solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Backtracking
@@ -732,6 +735,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/surajbain/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/surajbain/leetcode-solutions/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/surajbain/leetcode-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/surajbain/leetcode-solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -748,6 +752,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/surajbain/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/surajbain/leetcode-solutions/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/surajbain/leetcode-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/surajbain/leetcode-solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 ## Eulerian Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
