@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/surajbain/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/surajbain/leetcode-solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [1009-complement-of-base-10-integer](https://github.com/surajbain/leetcode-solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1494-parallel-courses-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1494-parallel-courses-ii/) | Hard |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/surajbain/leetcode-solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 ## Simulation
@@ -368,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0913-cat-and-mouse](https://github.com/surajbain/leetcode-solutions/tree/main/0913-cat-and-mouse/) | Hard |
 | [1140-stone-game-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/surajbain/leetcode-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1494-parallel-courses-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1494-parallel-courses-ii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/surajbain/leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/surajbain/leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Game Theory
@@ -527,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1462-course-schedule-iv](https://github.com/surajbain/leetcode-solutions/tree/main/1462-course-schedule-iv/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/surajbain/leetcode-solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/surajbain/leetcode-solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
+| [1494-parallel-courses-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1494-parallel-courses-ii/) | Hard |
 | [1791-find-center-of-star-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Backtracking
@@ -664,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-all-paths-from-source-to-target](https://github.com/surajbain/leetcode-solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0851-loud-and-rich](https://github.com/surajbain/leetcode-solutions/tree/main/0851-loud-and-rich/) | Medium |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/surajbain/leetcode-solutions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
+| [1494-parallel-courses-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1494-parallel-courses-ii/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -757,6 +761,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/surajbain/leetcode-solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
+| [1494-parallel-courses-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1494-parallel-courses-ii/) | Hard |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
