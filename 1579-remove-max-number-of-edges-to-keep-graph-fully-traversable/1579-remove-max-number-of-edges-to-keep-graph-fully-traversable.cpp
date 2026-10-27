@@ -8,7 +8,6 @@ class Solution {
             parent.resize(n + 1);
             size.assign(n + 1, 1);
             components = n;
-
             for (int i = 1; i <= n; i++) {
                 parent[i] = i;
             }
