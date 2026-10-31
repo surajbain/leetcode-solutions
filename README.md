@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1761-minimum-degree-of-a-connected-trio-in-a-graph/) | Hard |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/surajbain/leetcode-solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/surajbain/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Divide and Conquer
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1632-rank-transform-of-a-matrix](https://github.com/surajbain/leetcode-solutions/tree/main/1632-rank-transform-of-a-matrix/) | Hard |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/surajbain/leetcode-solutions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/surajbain/leetcode-solutions/tree/main/1719-number-of-ways-to-reconstruct-a-tree/) | Hard |
+| [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1761-minimum-degree-of-a-connected-trio-in-a-graph/) | Hard |
 | [1791-find-center-of-star-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Backtracking
