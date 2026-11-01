@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/surajbain/leetcode-solutions/tree/main/1719-number-of-ways-to-reconstruct-a-tree/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/surajbain/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1782-count-pairs-of-nodes](https://github.com/surajbain/leetcode-solutions/tree/main/1782-count-pairs-of-nodes/) | Hard |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/surajbain/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/surajbain/leetcode-solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/surajbain/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0989-add-to-array-form-of-integer](https://github.com/surajbain/leetcode-solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1140-stone-game-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/surajbain/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/surajbain/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/surajbain/leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/surajbain/leetcode-solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [1377-frog-position-after-t-seconds](https://github.com/surajbain/leetcode-solutions/tree/main/1377-frog-position-after-t-seconds/) | Hard |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/surajbain/leetcode-solutions/tree/main/1719-number-of-ways-to-reconstruct-a-tree/) | Hard |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -346,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/surajbain/leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -392,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1494-parallel-courses-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1494-parallel-courses-ii/) | Hard |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/surajbain/leetcode-solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/surajbain/leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/surajbain/leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -461,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1377-frog-position-after-t-seconds](https://github.com/surajbain/leetcode-solutions/tree/main/1377-frog-position-after-t-seconds/) | Hard |
 | [1462-course-schedule-iv](https://github.com/surajbain/leetcode-solutions/tree/main/1462-course-schedule-iv/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/surajbain/leetcode-solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -564,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1782-count-pairs-of-nodes](https://github.com/surajbain/leetcode-solutions/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/surajbain/leetcode-solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -698,6 +705,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1591-strange-printer-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1591-strange-printer-ii/) | Hard |
 | [1632-rank-transform-of-a-matrix](https://github.com/surajbain/leetcode-solutions/tree/main/1632-rank-transform-of-a-matrix/) | Hard |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/surajbain/leetcode-solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -851,4 +859,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/surajbain/leetcode-solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/surajbain/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
 <!---LeetCode Topics End-->
