@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/surajbain/leetcode-solutions/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajbain/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1514-path-with-maximum-probability](https://github.com/surajbain/leetcode-solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/surajbain/leetcode-solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/surajbain/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/surajbain/leetcode-solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Bit Manipulation
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/surajbain/leetcode-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1494-parallel-courses-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1494-parallel-courses-ii/) | Hard |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/surajbain/leetcode-solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/surajbain/leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/surajbain/leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Game Theory
@@ -560,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/surajbain/leetcode-solutions/tree/main/1719-number-of-ways-to-reconstruct-a-tree/) | Hard |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1761-minimum-degree-of-a-connected-trio-in-a-graph/) | Hard |
 | [1782-count-pairs-of-nodes](https://github.com/surajbain/leetcode-solutions/tree/main/1782-count-pairs-of-nodes/) | Hard |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/surajbain/leetcode-solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Backtracking
@@ -694,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1462-course-schedule-iv](https://github.com/surajbain/leetcode-solutions/tree/main/1462-course-schedule-iv/) | Medium |
 | [1591-strange-printer-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1591-strange-printer-ii/) | Hard |
 | [1632-rank-transform-of-a-matrix](https://github.com/surajbain/leetcode-solutions/tree/main/1632-rank-transform-of-a-matrix/) | Hard |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/surajbain/leetcode-solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -774,6 +778,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/surajbain/leetcode-solutions/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/surajbain/leetcode-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/surajbain/leetcode-solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/surajbain/leetcode-solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -791,6 +796,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/surajbain/leetcode-solutions/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/surajbain/leetcode-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/surajbain/leetcode-solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/surajbain/leetcode-solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 ## Eulerian Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
