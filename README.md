@@ -469,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1462-course-schedule-iv](https://github.com/surajbain/leetcode-solutions/tree/main/1462-course-schedule-iv/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/surajbain/leetcode-solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
+| [1971-find-if-path-exists-in-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -516,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1377-frog-position-after-t-seconds](https://github.com/surajbain/leetcode-solutions/tree/main/1377-frog-position-after-t-seconds/) | Hard |
 | [1462-course-schedule-iv](https://github.com/surajbain/leetcode-solutions/tree/main/1462-course-schedule-iv/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/surajbain/leetcode-solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -574,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1791-find-center-of-star-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/surajbain/leetcode-solutions/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
+| [1971-find-if-path-exists-in-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -746,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1584-min-cost-to-connect-all-points](https://github.com/surajbain/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1632-rank-transform-of-a-matrix](https://github.com/surajbain/leetcode-solutions/tree/main/1632-rank-transform-of-a-matrix/) | Hard |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/surajbain/leetcode-solutions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
+| [1971-find-if-path-exists-in-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
