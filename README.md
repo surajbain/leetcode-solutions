@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/surajbain/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1782-count-pairs-of-nodes](https://github.com/surajbain/leetcode-solutions/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/surajbain/leetcode-solutions/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/surajbain/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/surajbain/leetcode-solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/surajbain/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -397,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/surajbain/leetcode-solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/surajbain/leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/surajbain/leetcode-solutions/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/surajbain/leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -571,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/surajbain/leetcode-solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/surajbain/leetcode-solutions/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -805,6 +808,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/surajbain/leetcode-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/surajbain/leetcode-solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/surajbain/leetcode-solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/surajbain/leetcode-solutions/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 ## Eulerian Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
