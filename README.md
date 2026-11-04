@@ -520,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/surajbain/leetcode-solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/surajbain/leetcode-solutions/tree/main/2039-the-time-when-the-network-becomes-idle/) | Medium |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/surajbain/leetcode-solutions/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -580,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/surajbain/leetcode-solutions/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/surajbain/leetcode-solutions/tree/main/2039-the-time-when-the-network-becomes-idle/) | Medium |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/surajbain/leetcode-solutions/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -797,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/surajbain/leetcode-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/surajbain/leetcode-solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/surajbain/leetcode-solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/surajbain/leetcode-solutions/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -816,6 +819,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1514-path-with-maximum-probability](https://github.com/surajbain/leetcode-solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/surajbain/leetcode-solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/surajbain/leetcode-solutions/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/surajbain/leetcode-solutions/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 ## Eulerian Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -878,4 +882,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
+## K Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/surajbain/leetcode-solutions/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 <!---LeetCode Topics End-->
