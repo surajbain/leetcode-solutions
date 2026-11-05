@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1632-rank-transform-of-a-matrix](https://github.com/surajbain/leetcode-solutions/tree/main/1632-rank-transform-of-a-matrix/) | Hard |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/surajbain/leetcode-solutions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/surajbain/leetcode-solutions/tree/main/1719-number-of-ways-to-reconstruct-a-tree/) | Hard |
+| [1728-cat-and-mouse-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1728-cat-and-mouse-ii/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/surajbain/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1782-count-pairs-of-nodes](https://github.com/surajbain/leetcode-solutions/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0989-add-to-array-form-of-integer](https://github.com/surajbain/leetcode-solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1140-stone-game-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
+| [1728-cat-and-mouse-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1728-cat-and-mouse-ii/) | Hard |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/surajbain/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/surajbain/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -375,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/surajbain/leetcode-solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1591-strange-printer-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1591-strange-printer-ii/) | Hard |
 | [1632-rank-transform-of-a-matrix](https://github.com/surajbain/leetcode-solutions/tree/main/1632-rank-transform-of-a-matrix/) | Hard |
+| [1728-cat-and-mouse-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1728-cat-and-mouse-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -397,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/surajbain/leetcode-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1494-parallel-courses-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1494-parallel-courses-ii/) | Hard |
+| [1728-cat-and-mouse-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1728-cat-and-mouse-ii/) | Hard |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/surajbain/leetcode-solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/surajbain/leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
@@ -410,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/surajbain/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [0913-cat-and-mouse](https://github.com/surajbain/leetcode-solutions/tree/main/0913-cat-and-mouse/) | Hard |
 | [1140-stone-game-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1728-cat-and-mouse-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1728-cat-and-mouse-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -575,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1632-rank-transform-of-a-matrix](https://github.com/surajbain/leetcode-solutions/tree/main/1632-rank-transform-of-a-matrix/) | Hard |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/surajbain/leetcode-solutions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/surajbain/leetcode-solutions/tree/main/1719-number-of-ways-to-reconstruct-a-tree/) | Hard |
+| [1728-cat-and-mouse-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1728-cat-and-mouse-ii/) | Hard |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1761-minimum-degree-of-a-connected-trio-in-a-graph/) | Hard |
 | [1782-count-pairs-of-nodes](https://github.com/surajbain/leetcode-solutions/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/surajbain/leetcode-solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
@@ -618,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0913-cat-and-mouse](https://github.com/surajbain/leetcode-solutions/tree/main/0913-cat-and-mouse/) | Hard |
 | [1140-stone-game-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1728-cat-and-mouse-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1728-cat-and-mouse-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -627,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0913-cat-and-mouse](https://github.com/surajbain/leetcode-solutions/tree/main/0913-cat-and-mouse/) | Hard |
 | [1140-stone-game-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1728-cat-and-mouse-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1728-cat-and-mouse-ii/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -718,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1462-course-schedule-iv](https://github.com/surajbain/leetcode-solutions/tree/main/1462-course-schedule-iv/) | Medium |
 | [1591-strange-printer-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1591-strange-printer-ii/) | Hard |
 | [1632-rank-transform-of-a-matrix](https://github.com/surajbain/leetcode-solutions/tree/main/1632-rank-transform-of-a-matrix/) | Hard |
+| [1728-cat-and-mouse-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1728-cat-and-mouse-ii/) | Hard |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/surajbain/leetcode-solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/surajbain/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
@@ -739,6 +748,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/surajbain/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/surajbain/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0913-cat-and-mouse](https://github.com/surajbain/leetcode-solutions/tree/main/0913-cat-and-mouse/) | Hard |
+| [1728-cat-and-mouse-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1728-cat-and-mouse-ii/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
