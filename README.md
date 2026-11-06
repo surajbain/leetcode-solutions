@@ -593,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2045-second-minimum-time-to-reach-destination](https://github.com/surajbain/leetcode-solutions/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/surajbain/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/surajbain/leetcode-solutions/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
+| [2076-process-restricted-friend-requests](https://github.com/surajbain/leetcode-solutions/tree/main/2076-process-restricted-friend-requests/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -773,6 +774,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1632-rank-transform-of-a-matrix](https://github.com/surajbain/leetcode-solutions/tree/main/1632-rank-transform-of-a-matrix/) | Hard |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/surajbain/leetcode-solutions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2076-process-restricted-friend-requests](https://github.com/surajbain/leetcode-solutions/tree/main/2076-process-restricted-friend-requests/) | Hard |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
