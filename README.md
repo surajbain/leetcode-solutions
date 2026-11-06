@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/surajbain/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/surajbain/leetcode-solutions/tree/main/2039-the-time-when-the-network-becomes-idle/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/surajbain/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/surajbain/leetcode-solutions/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/surajbain/leetcode-solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/surajbain/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/surajbain/leetcode-solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
@@ -591,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/surajbain/leetcode-solutions/tree/main/2039-the-time-when-the-network-becomes-idle/) | Medium |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/surajbain/leetcode-solutions/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/surajbain/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/surajbain/leetcode-solutions/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -599,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/surajbain/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/surajbain/leetcode-solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/surajbain/leetcode-solutions/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/surajbain/leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
