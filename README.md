@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/surajbain/leetcode-solutions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1782-count-pairs-of-nodes](https://github.com/surajbain/leetcode-solutions/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/surajbain/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2092-find-all-people-with-secret](https://github.com/surajbain/leetcode-solutions/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/surajbain/leetcode-solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/surajbain/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/surajbain/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -479,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/surajbain/leetcode-solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2092-find-all-people-with-secret](https://github.com/surajbain/leetcode-solutions/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -529,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1971-find-if-path-exists-in-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/surajbain/leetcode-solutions/tree/main/2039-the-time-when-the-network-becomes-idle/) | Medium |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/surajbain/leetcode-solutions/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
+| [2092-find-all-people-with-secret](https://github.com/surajbain/leetcode-solutions/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -594,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2050-parallel-courses-iii](https://github.com/surajbain/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/surajbain/leetcode-solutions/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2076-process-restricted-friend-requests](https://github.com/surajbain/leetcode-solutions/tree/main/2076-process-restricted-friend-requests/) | Hard |
+| [2092-find-all-people-with-secret](https://github.com/surajbain/leetcode-solutions/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -775,6 +779,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/surajbain/leetcode-solutions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2076-process-restricted-friend-requests](https://github.com/surajbain/leetcode-solutions/tree/main/2076-process-restricted-friend-requests/) | Hard |
+| [2092-find-all-people-with-secret](https://github.com/surajbain/leetcode-solutions/tree/main/2092-find-all-people-with-secret/) | Hard |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
