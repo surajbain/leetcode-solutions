@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2050-parallel-courses-iii](https://github.com/surajbain/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/surajbain/leetcode-solutions/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2097-valid-arrangement-of-pairs](https://github.com/surajbain/leetcode-solutions/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
+| [2101-detonate-the-maximum-bombs](https://github.com/surajbain/leetcode-solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/surajbain/leetcode-solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/surajbain/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/surajbain/leetcode-solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1728-cat-and-mouse-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1728-cat-and-mouse-ii/) | Hard |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
+| [2101-detonate-the-maximum-bombs](https://github.com/surajbain/leetcode-solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/surajbain/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/surajbain/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/surajbain/leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -484,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1971-find-if-path-exists-in-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2092-find-all-people-with-secret](https://github.com/surajbain/leetcode-solutions/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2097-valid-arrangement-of-pairs](https://github.com/surajbain/leetcode-solutions/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
+| [2101-detonate-the-maximum-bombs](https://github.com/surajbain/leetcode-solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -536,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/surajbain/leetcode-solutions/tree/main/2039-the-time-when-the-network-becomes-idle/) | Medium |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/surajbain/leetcode-solutions/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 | [2092-find-all-people-with-secret](https://github.com/surajbain/leetcode-solutions/tree/main/2092-find-all-people-with-secret/) | Hard |
+| [2101-detonate-the-maximum-bombs](https://github.com/surajbain/leetcode-solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -604,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2076-process-restricted-friend-requests](https://github.com/surajbain/leetcode-solutions/tree/main/2076-process-restricted-friend-requests/) | Hard |
 | [2092-find-all-people-with-secret](https://github.com/surajbain/leetcode-solutions/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2097-valid-arrangement-of-pairs](https://github.com/surajbain/leetcode-solutions/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
+| [2101-detonate-the-maximum-bombs](https://github.com/surajbain/leetcode-solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -921,4 +926,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/surajbain/leetcode-solutions/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/surajbain/leetcode-solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 <!---LeetCode Topics End-->
