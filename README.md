@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2097-valid-arrangement-of-pairs](https://github.com/surajbain/leetcode-solutions/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/surajbain/leetcode-solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/surajbain/leetcode-solutions/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/surajbain/leetcode-solutions/tree/main/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/surajbain/leetcode-solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/surajbain/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/surajbain/leetcode-solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
@@ -414,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/surajbain/leetcode-solutions/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/surajbain/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/surajbain/leetcode-solutions/tree/main/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/surajbain/leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -490,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2092-find-all-people-with-secret](https://github.com/surajbain/leetcode-solutions/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2097-valid-arrangement-of-pairs](https://github.com/surajbain/leetcode-solutions/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/surajbain/leetcode-solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/surajbain/leetcode-solutions/tree/main/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -613,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2097-valid-arrangement-of-pairs](https://github.com/surajbain/leetcode-solutions/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/surajbain/leetcode-solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/surajbain/leetcode-solutions/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/surajbain/leetcode-solutions/tree/main/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -755,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/surajbain/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/surajbain/leetcode-solutions/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/surajbain/leetcode-solutions/tree/main/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -884,10 +889,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/surajbain/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/surajbain/leetcode-solutions/tree/main/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
 ## Tarjan's SCC Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/surajbain/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/surajbain/leetcode-solutions/tree/main/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
 ## Biconnected Component
 | Problem Name | Difficulty |
 | ------- | ------- |
