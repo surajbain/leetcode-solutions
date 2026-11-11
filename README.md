@@ -493,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2097-valid-arrangement-of-pairs](https://github.com/surajbain/leetcode-solutions/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/surajbain/leetcode-solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/surajbain/leetcode-solutions/tree/main/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/surajbain/leetcode-solutions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -546,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2045-second-minimum-time-to-reach-destination](https://github.com/surajbain/leetcode-solutions/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 | [2092-find-all-people-with-secret](https://github.com/surajbain/leetcode-solutions/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/surajbain/leetcode-solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/surajbain/leetcode-solutions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -617,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2101-detonate-the-maximum-bombs](https://github.com/surajbain/leetcode-solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/surajbain/leetcode-solutions/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/surajbain/leetcode-solutions/tree/main/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/surajbain/leetcode-solutions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -760,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2050-parallel-courses-iii](https://github.com/surajbain/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/surajbain/leetcode-solutions/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/surajbain/leetcode-solutions/tree/main/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/surajbain/leetcode-solutions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -773,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1591-strange-printer-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1591-strange-printer-ii/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/surajbain/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/surajbain/leetcode-solutions/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/surajbain/leetcode-solutions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
