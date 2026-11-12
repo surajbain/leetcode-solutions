@@ -8,7 +8,7 @@ public:
             int u = e[0];
             int v = e[1];
 
-            adj[u].push_back(v);\
+            adj[u].push_back(v);
             adj[v].push_back(u);
         }
         for (int i = 0; i < n; i++) {
