@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2101-detonate-the-maximum-bombs](https://github.com/surajbain/leetcode-solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/surajbain/leetcode-solutions/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/surajbain/leetcode-solutions/tree/main/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
+| [2242-maximum-score-of-a-node-sequence](https://github.com/surajbain/leetcode-solutions/tree/main/2242-maximum-score-of-a-node-sequence/) | Hard |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/surajbain/leetcode-solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/surajbain/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/surajbain/leetcode-solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1782-count-pairs-of-nodes](https://github.com/surajbain/leetcode-solutions/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/surajbain/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2092-find-all-people-with-secret](https://github.com/surajbain/leetcode-solutions/tree/main/2092-find-all-people-with-secret/) | Hard |
+| [2242-maximum-score-of-a-node-sequence](https://github.com/surajbain/leetcode-solutions/tree/main/2242-maximum-score-of-a-node-sequence/) | Hard |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/surajbain/leetcode-solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/surajbain/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/surajbain/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -272,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/surajbain/leetcode-solutions/tree/main/1761-minimum-degree-of-a-connected-trio-in-a-graph/) | Hard |
+| [2242-maximum-score-of-a-node-sequence](https://github.com/surajbain/leetcode-solutions/tree/main/2242-maximum-score-of-a-node-sequence/) | Hard |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/surajbain/leetcode-solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/surajbain/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Divide and Conquer
@@ -622,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/surajbain/leetcode-solutions/tree/main/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/surajbain/leetcode-solutions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/surajbain/leetcode-solutions/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
+| [2242-maximum-score-of-a-node-sequence](https://github.com/surajbain/leetcode-solutions/tree/main/2242-maximum-score-of-a-node-sequence/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/surajbain/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
