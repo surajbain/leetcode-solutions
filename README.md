@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/surajbain/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/surajbain/leetcode-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/surajbain/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/surajbain/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/surajbain/leetcode-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/surajbain/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
@@ -399,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/surajbain/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0095-unique-binary-search-trees-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/surajbain/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/surajbain/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/surajbain/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/surajbain/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -453,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/surajbain/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/surajbain/leetcode-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0133-clone-graph](https://github.com/surajbain/leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -942,6 +946,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/surajbain/leetcode-solutions/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
 ## Fermat's Little Theorem
 | Problem Name | Difficulty |
