@@ -313,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/surajbain/leetcode-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0129-sum-root-to-leaf-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/surajbain/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/surajbain/leetcode-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0129-sum-root-to-leaf-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/surajbain/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
@@ -457,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/surajbain/leetcode-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0129-sum-root-to-leaf-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0133-clone-graph](https://github.com/surajbain/leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
