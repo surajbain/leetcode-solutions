@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/surajbain/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/surajbain/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/surajbain/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0069-sqrtx](https://github.com/surajbain/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/surajbain/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/surajbain/leetcode-solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/surajbain/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
@@ -701,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/surajbain/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/surajbain/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/surajbain/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/surajbain/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/surajbain/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1782-count-pairs-of-nodes](https://github.com/surajbain/leetcode-solutions/tree/main/1782-count-pairs-of-nodes/) | Hard |
 ## Binary Search Tree
@@ -986,4 +988,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/surajbain/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
