@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/surajbain/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0332-reconstruct-itinerary](https://github.com/surajbain/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0399-evaluate-division](https://github.com/surajbain/leetcode-solutions/tree/main/0399-evaluate-division/) | Medium |
+| [0449-serialize-and-deserialize-bst](https://github.com/surajbain/leetcode-solutions/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0753-cracking-the-safe](https://github.com/surajbain/leetcode-solutions/tree/main/0753-cracking-the-safe/) | Hard |
 | [0990-satisfiability-of-equality-equations](https://github.com/surajbain/leetcode-solutions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/surajbain/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/surajbain/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/surajbain/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0449-serialize-and-deserialize-bst](https://github.com/surajbain/leetcode-solutions/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/surajbain/leetcode-solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [1377-frog-position-after-t-seconds](https://github.com/surajbain/leetcode-solutions/tree/main/1377-frog-position-after-t-seconds/) | Hard |
@@ -369,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/surajbain/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/surajbain/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0449-serialize-and-deserialize-bst](https://github.com/surajbain/leetcode-solutions/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/surajbain/leetcode-solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Counting Sort
@@ -488,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/surajbain/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/surajbain/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0399-evaluate-division](https://github.com/surajbain/leetcode-solutions/tree/main/0399-evaluate-division/) | Medium |
+| [0449-serialize-and-deserialize-bst](https://github.com/surajbain/leetcode-solutions/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/surajbain/leetcode-solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/surajbain/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
@@ -543,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/surajbain/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/surajbain/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0399-evaluate-division](https://github.com/surajbain/leetcode-solutions/tree/main/0399-evaluate-division/) | Medium |
+| [0449-serialize-and-deserialize-bst](https://github.com/surajbain/leetcode-solutions/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/surajbain/leetcode-solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/surajbain/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/surajbain/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
@@ -722,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/surajbain/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/surajbain/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0449-serialize-and-deserialize-bst](https://github.com/surajbain/leetcode-solutions/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/surajbain/leetcode-solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -769,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/surajbain/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/surajbain/leetcode-solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0449-serialize-and-deserialize-bst](https://github.com/surajbain/leetcode-solutions/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
