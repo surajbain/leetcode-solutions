@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/surajbain/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/surajbain/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0139-word-break](https://github.com/surajbain/leetcode-solutions/tree/main/0139-word-break/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/surajbain/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0179-largest-number](https://github.com/surajbain/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/surajbain/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/surajbain/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
@@ -715,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/surajbain/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/surajbain/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/surajbain/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/surajbain/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1782-count-pairs-of-nodes](https://github.com/surajbain/leetcode-solutions/tree/main/1782-count-pairs-of-nodes/) | Hard |
 ## Binary Search Tree
