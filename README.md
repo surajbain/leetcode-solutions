@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/surajbain/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/surajbain/leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/surajbain/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
+| [0327-count-of-range-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0327-count-of-range-sum/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/surajbain/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/surajbain/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/surajbain/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/surajbain/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/surajbain/leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0327-count-of-range-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0327-count-of-range-sum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/surajbain/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/surajbain/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Tree
@@ -741,6 +743,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0278-first-bad-version](https://github.com/surajbain/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/surajbain/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/surajbain/leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0327-count-of-range-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0327-count-of-range-sum/) | Hard |
 | [1782-count-pairs-of-nodes](https://github.com/surajbain/leetcode-solutions/tree/main/1782-count-pairs-of-nodes/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -1040,20 +1043,25 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/surajbain/leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0327-count-of-range-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0327-count-of-range-sum/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/surajbain/leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0327-count-of-range-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0327-count-of-range-sum/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/surajbain/leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0327-count-of-range-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0327-count-of-range-sum/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/surajbain/leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0327-count-of-range-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0327-count-of-range-sum/) | Hard |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/surajbain/leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0327-count-of-range-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0327-count-of-range-sum/) | Hard |
 <!---LeetCode Topics End-->
