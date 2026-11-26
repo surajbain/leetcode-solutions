@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0332-reconstruct-itinerary](https://github.com/surajbain/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/surajbain/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/surajbain/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0399-evaluate-division](https://github.com/surajbain/leetcode-solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0486-predict-the-winner](https://github.com/surajbain/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/surajbain/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/surajbain/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/surajbain/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0924-minimize-malware-spread](https://github.com/surajbain/leetcode-solutions/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0928-minimize-malware-spread-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0928-minimize-malware-spread-ii/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/surajbain/leetcode-solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0332-reconstruct-itinerary](https://github.com/surajbain/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/surajbain/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/surajbain/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1311-get-watched-videos-by-your-friends](https://github.com/surajbain/leetcode-solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajbain/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -702,6 +705,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/surajbain/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajbain/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/surajbain/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/surajbain/leetcode-solutions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1782-count-pairs-of-nodes](https://github.com/surajbain/leetcode-solutions/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/surajbain/leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -749,6 +753,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0315-count-of-smaller-numbers-after-self](https://github.com/surajbain/leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0327-count-of-range-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0327-count-of-range-sum/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/surajbain/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1782-count-pairs-of-nodes](https://github.com/surajbain/leetcode-solutions/tree/main/1782-count-pairs-of-nodes/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
