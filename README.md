@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/surajbain/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0354-russian-doll-envelopes](https://github.com/surajbain/leetcode-solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/surajbain/leetcode-solutions/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [0399-evaluate-division](https://github.com/surajbain/leetcode-solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0486-predict-the-winner](https://github.com/surajbain/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -432,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/surajbain/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/surajbain/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/surajbain/leetcode-solutions/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [0994-rotting-oranges](https://github.com/surajbain/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/surajbain/leetcode-solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1591-strange-printer-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1591-strange-printer-ii/) | Hard |
@@ -721,6 +723,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/surajbain/leetcode-solutions/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [1140-stone-game-ii](https://github.com/surajbain/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
@@ -758,6 +761,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/surajbain/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0354-russian-doll-envelopes](https://github.com/surajbain/leetcode-solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/surajbain/leetcode-solutions/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [1782-count-pairs-of-nodes](https://github.com/surajbain/leetcode-solutions/tree/main/1782-count-pairs-of-nodes/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -1074,6 +1078,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/surajbain/leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0327-count-of-range-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0327-count-of-range-sum/) | Hard |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/surajbain/leetcode-solutions/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
