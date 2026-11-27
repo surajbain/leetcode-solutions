@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/surajbain/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/surajbain/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0354-russian-doll-envelopes](https://github.com/surajbain/leetcode-solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0399-evaluate-division](https://github.com/surajbain/leetcode-solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0486-predict-the-winner](https://github.com/surajbain/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/surajbain/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/surajbain/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0354-russian-doll-envelopes](https://github.com/surajbain/leetcode-solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/surajbain/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1311-get-watched-videos-by-your-friends](https://github.com/surajbain/leetcode-solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajbain/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -449,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/surajbain/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/surajbain/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/surajbain/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0354-russian-doll-envelopes](https://github.com/surajbain/leetcode-solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0486-predict-the-winner](https://github.com/surajbain/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/surajbain/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0788-rotated-digits](https://github.com/surajbain/leetcode-solutions/tree/main/0788-rotated-digits/) | Medium |
@@ -754,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0327-count-of-range-sum](https://github.com/surajbain/leetcode-solutions/tree/main/0327-count-of-range-sum/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/surajbain/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/surajbain/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0354-russian-doll-envelopes](https://github.com/surajbain/leetcode-solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [1782-count-pairs-of-nodes](https://github.com/surajbain/leetcode-solutions/tree/main/1782-count-pairs-of-nodes/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -903,6 +907,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/surajbain/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0354-russian-doll-envelopes](https://github.com/surajbain/leetcode-solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
 ## Brute-Force Search
 | Problem Name | Difficulty |
 | ------- | ------- |
